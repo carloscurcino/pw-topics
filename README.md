@@ -57,7 +57,7 @@ Aqui estão alguns recursos úteis para quem deseja estudar programação web co
 ## Como Contribuir
 Para contribuir para este repositório, siga os seguintes passos:
 
-\t1 -Faça um fork do repositório para a sua própria conta no GitHub. Isso criará uma cópia do projeto em sua conta.
+\t 1 -Faça um fork do repositório para a sua própria conta no GitHub. Isso criará uma cópia do projeto em sua conta.
 
 \t2 - Clone o seu fork do repositório em sua máquina local usando o Git.
 
