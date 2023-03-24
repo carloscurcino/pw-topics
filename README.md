@@ -1,6 +1,45 @@
 # Tópicos de Estudo de Programação Web
 Este repositório é dedicado a reunir tópicos de estudo de programação web. O objetivo é fornecer uma lista de recursos e informações úteis para quem deseja aprender mais sobre o assunto.
 
+## Tópicos de Estudo
+Aqui estão alguns tópicos que podem ser úteis para a disciplina de programação web:
+- Protocolo HTTP
+- Docker:
+  Imagem, Containers. Dockerfile e docker-compose.
+  
+## Recursos Úteis
+Aqui estão alguns recursos úteis para quem deseja estudar programação web com foco no backend:
+
+### Protocolo HTTP
+HTTP Tutorial da MDN Web Docs
+HTTP: Entendendo a estrutura das requisições e respostas
+HTTP Status Codes
+### Docker
+Documentação oficial do Docker
+Curso de Docker da Cod3r
+Docker Hub
+## Linguagens de programação e Frameworks
+Documentação oficial do Python
+Documentação oficial do Java
+Documentação oficial do C#
+Documentação oficial do Ruby
+Documentação oficial do Node.js
+Documentação oficial do Django
+Documentação oficial do Ruby on Rails
+Banco de Dados
+Documentação oficial do MySQL
+Documentação oficial do PostgreSQL
+Documentação oficial do MongoDB
+Arquitetura de Microserviços
+O que é arquitetura de Microserviços?
+Padrões de Arquitetura de Microserviços
+Microservices na Prática com Spring Cloud e Netflix OSS
+Desenvolvimento de APIs
+Representational State Transfer (REST)
+GraphQL
+Building Modern Web Applications with Go (Golang) - RESTful API
+
+
 ## Como Contribuir
 Para contribuir para este repositório, siga os seguintes passos:
 
@@ -19,19 +58,3 @@ Para contribuir para este repositório, siga os seguintes passos:
 7 - Abra um pull request (PR) no repositório original solicitando que as suas mudanças sejam revisadas e incorporadas ao projeto principal. No PR, explique as alterações que você fez e por que são importantes.
 
 As alterações serão mescladas na branch principal do repositório original.
-
-## Tópicos de Estudo
-Aqui estão alguns tópicos que podem ser úteis para a disciplina de programação web:
-- Protocolo HTTP
-- Docker:
-  Imagem, Containers. Dockerfile e docker-compose.
-  
-## Recursos Úteis
-Aqui estão alguns recursos úteis para quem deseja estudar programação web:
-
-MDN Web Docs: documentação completa sobre HTML, CSS e JavaScript
-W3Schools: tutoriais e exemplos de código para várias tecnologias web
-FreeCodeCamp: currículo completo para aprendizado de programação web
-Codecademy: tutoriais interativos para programação web
-Stack Overflow: fórum de perguntas e respostas sobre programação web
-Sinta-se à vontade para adicionar mais tópicos de estudo e recursos úteis!
