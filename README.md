@@ -25,3 +25,13 @@ Aqui estão alguns tópicos que podem ser úteis para a disciplina de programaç
 - Protocolo HTTP
 - Docker:
   Imagem, Containers. Dockerfile e docker-compose.
+  
+## Recursos Úteis
+Aqui estão alguns recursos úteis para quem deseja estudar programação web:
+
+MDN Web Docs: documentação completa sobre HTML, CSS e JavaScript
+W3Schools: tutoriais e exemplos de código para várias tecnologias web
+FreeCodeCamp: currículo completo para aprendizado de programação web
+Codecademy: tutoriais interativos para programação web
+Stack Overflow: fórum de perguntas e respostas sobre programação web
+Sinta-se à vontade para adicionar mais tópicos de estudo e recursos úteis!
