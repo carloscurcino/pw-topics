@@ -72,5 +72,6 @@ Para contribuir para este repositório, siga os seguintes passos:
 7 - Abra um pull request (PR) no repositório original solicitando que as suas mudanças sejam revisadas e incorporadas ao projeto principal. No PR, explique as alterações que você fez e por que são importantes.
 
 As alterações serão mescladas na branch principal do repositório original. Por Favor, mantenha a formatação.
-<br>
+  
+  
 Sinta-se à vontade para adicionar mais tópicos de estudo e recursos úteis!
