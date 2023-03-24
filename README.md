@@ -57,19 +57,19 @@ Aqui estão alguns recursos úteis para quem deseja estudar programação web co
 ## Como Contribuir
 Para contribuir para este repositório, siga os seguintes passos:
 
-1 -Faça um fork do repositório para a sua própria conta no GitHub. Isso criará uma cópia do projeto em sua conta.
+   1 -Faça um fork do repositório para a sua própria conta no GitHub. Isso criará uma cópia do projeto em sua conta.
 
-2 - Clone o seu fork do repositório em sua máquina local usando o Git.
+   2 - Clone o seu fork do repositório em sua máquina local usando o Git.
 
-3 - Crie uma nova branch para sua contribuição, isso mantém a linha principal do projeto inalterada enquanto você trabalha em seu novo recurso.
+   3 - Crie uma nova branch para sua contribuição, isso mantém a linha principal do projeto inalterada enquanto você trabalha em seu novo recurso.
 
-4 - Adicione os tópicos que achar pertinente e/ou corriga algo que esteja errado.
+   4 - Adicione os tópicos que achar pertinente e/ou corriga algo que esteja errado.
 
-5 - Adicione e comite as mudanças usando o Git.
+   5 - Adicione e comite as mudanças usando o Git.
 
-6 - Envie suas alterações para o seu fork no GitHub.
+   6 - Envie suas alterações para o seu fork no GitHub.
 
-7 - Abra um pull request (PR) no repositório original solicitando que as suas mudanças sejam revisadas e incorporadas ao projeto principal. No PR, explique as alterações que você fez e por que são importantes.
+   7 - Abra um pull request (PR) no repositório original solicitando que as suas mudanças sejam revisadas e incorporadas ao projeto principal. No PR, explique as alterações que você fez e por que são importantes.
 
 As alterações serão mescladas na branch principal do repositório original. Por Favor, mantenha a formatação.
   
