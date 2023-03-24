@@ -74,4 +74,4 @@ Para contribuir para este repositório, siga os seguintes passos:
 As alterações serão mescladas na branch principal do repositório original. Por Favor, mantenha a formatação.
   
   
-Sinta-se à vontade para adicionar mais tópicos de estudo e recursos úteis!
+Sinta-se à vontade para adicionar mais tópicos de estudo e recursos úteis!😉
