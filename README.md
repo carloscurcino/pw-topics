@@ -1,7 +1,7 @@
 # Tópicos de Estudo de Programação Web
 Este repositório é dedicado a reunir tópicos de estudo de programação web. O objetivo é fornecer uma lista de recursos e informações úteis para quem deseja aprender mais sobre o assunto.
 
-##Como Contribuir
+## Como Contribuir
 Se você quiser contribuir para este repositório, siga os seguintes passos:
 
 Faça um fork do repositório para a sua própria conta no GitHub. Isso criará uma cópia do projeto em sua conta.
@@ -22,7 +22,7 @@ Aguarde a revisão e feedback dos mantenedores do projeto. Eles podem sugerir mu
 
 Se suas alterações forem aceitas, elas serão mescladas na branch principal do repositório original.
 
-##Tópicos de Estudo
+## Tópicos de Estudo
 Aqui estão alguns tópicos que podem ser úteis para a disciplina de programação web:
 - Protocolo HTTP
 - Docker:
