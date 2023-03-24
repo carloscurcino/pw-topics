@@ -1,5 +1,5 @@
 # Tópicos de Estudo de Programação Web
-Este repositório é dedicado a reunir tópicos de estudo de programação web. O objetivo é fornecer uma lista de recursos e informações úteis para quem deseja aprender mais sobre o assunto.
+Este repositório é dedicado a reunir tópicos de estudo de programação web. O objetivo é fornecer uma lista de recursos e informações úteis para quem deseja aprender mais sobre o assunto e ajudar na disciplina de PW. 
 
 ## Tópicos de Estudo
 Aqui estão alguns tópicos que podem ser úteis para a disciplina de programação web:
@@ -71,4 +71,6 @@ Para contribuir para este repositório, siga os seguintes passos:
 
 7 - Abra um pull request (PR) no repositório original solicitando que as suas mudanças sejam revisadas e incorporadas ao projeto principal. No PR, explique as alterações que você fez e por que são importantes.
 
-As alterações serão mescladas na branch principal do repositório original.
+As alterações serão mescladas na branch principal do repositório original. Por Favor, mantenha a formatação.
+<br>
+Sinta-se à vontade para adicionar mais tópicos de estudo e recursos úteis!
