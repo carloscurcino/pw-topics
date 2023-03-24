@@ -4,8 +4,15 @@ Este repositório é dedicado a reunir tópicos de estudo de programação web. 
 ## Tópicos de Estudo
 Aqui estão alguns tópicos que podem ser úteis para a disciplina de programação web:
 - Protocolo HTTP
-- Docker:
-  Imagem, Containers. Dockerfile e docker-compose.
+- Docker
+- Linguagens de programação (Python, Java, C#, Ruby, etc.)
+- Frameworks Back-End (Node.js, Django, Ruby on Rails, etc.)
+- Banco de Dados (SQL, NoSQL, MongoDB, etc.)
+- Arquitetura de Microserviços
+- Desenvolvimento de APIs (RESTful, GraphQL, etc.)
+- Autenticação e Autorização
+- Testes de Software
+- Segurança Web
   
 ## Recursos Úteis
 Aqui estão alguns recursos úteis para quem deseja estudar programação web com foco no backend:
