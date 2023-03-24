@@ -9,47 +9,43 @@ Aqui estão alguns tópicos que podem ser úteis para a disciplina de programaç
   
 ## Recursos Úteis
 Aqui estão alguns recursos úteis para quem deseja estudar programação web com foco no backend:
-
-Protocolo HTTP
+### Protocolo HTTP
 [HTTP Tutorial da MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
-HTTP: Entendendo a estrutura das requisições e respostas
-HTTP Status Codes
-Docker
-Documentação oficial do Docker
-Curso de Docker da Cod3r
-Docker Hub
-Linguagens de programação e Frameworks
-Documentação oficial do Python
-Documentação oficial do Java
-Documentação oficial do C#
-Documentação oficial do Ruby
-Documentação oficial do Node.js
-Documentação oficial do Django
-Documentação oficial do Ruby on Rails
-Banco de Dados
-Documentação oficial do MySQL
-Documentação oficial do PostgreSQL
-Documentação oficial do MongoDB
-Arquitetura de Microserviços
-O que é arquitetura de Microserviços?
-Padrões de Arquitetura de Microserviços
-Microservices na Prática com Spring Cloud e Netflix OSS
-Desenvolvimento de APIs
-Representational State Transfer (REST)
-GraphQL
-Building Modern Web Applications with Go (Golang) - RESTful API
-Autenticação e Autorização
-Authentication vs. Authorization
-OAuth 2.0
-JSON Web Tokens (JWT)
-Testes de Software
-Introdução aos Testes de Software
-Testes de Unidade com JUnit
-Test-Driven Development (TDD)
-Segurança Web
-OWASP Top 10
-Secure Coding Practices Checklist
-Web Security Academy da PortSwigger
+[HTTP: Entendendo a estrutura das requisições e respostas](https://tableless.com.br/http-entendendo-a-estrutura-das-requisicoes-e-respostas/)
+[HTTP Status Codes](https://httpstatuses.com/)
+### Docker
+[Documentação oficial do Docker](https://docs.docker.com/)
+[Docker Hub](https://hub.docker.com/)
+### Linguagens de programação e Frameworks
+[Documentação oficial do Python](https://docs.python.org/pt-br/3/)
+[Documentação oficial do Java](https://docs.oracle.com/en/java/)
+[Documentação oficial do Ruby](https://www.ruby-lang.org/pt/documentation/)
+[Documentação oficial do Node.js](https://nodejs.org/pt-br/docs/)
+[Documentação oficial do Django](https://docs.djangoproject.com/)
+[Documentação oficial do Ruby on Rails](https://rubyonrails.org/documentation/)
+### Banco de Dados
+[Documentação oficial do MySQL](https://dev.mysql.com/doc/)
+[Documentação oficial do PostgreSQL](https://www.postgresql.org/docs/)
+[Documentação oficial do MongoDB](https://docs.mongodb.com/)
+### Arquitetura de Microserviços
+[O que é arquitetura de Microserviços?](https://www.redhat.com/pt-br/topics/microservices/what-are-microservices)
+[Padrões de Arquitetura de Microserviços](https://microservices.io/patterns/microservices.html)
+[Microservices na Prática com Spring Cloud e Netflix OSS](https://www.udemy.com/course/microservices-na-pratica-com-spring-cloud-e-netflix-oss/)
+### Desenvolvimento de APIs
+[Representational State Transfer (REST)](https://restfulapi.net/)
+[GraphQL](https://graphql.org/learn/)
+[Building Modern Web Applications with Go (Golang) - RESTful API](https://www.udemy.com/course/building-modern-web-applications-with-go-golang-restful-api/)
+### Autenticação e Autorização
+[Authentication vs. Authorization](https://www.cloudflare.com/learning/access-management/authentication/auth-vs-authz/)
+[OAuth 2.0](https://oauth.net/2/)
+[JSON Web Tokens (JWT)](https://jwt.io/)
+### Testes de Software
+[Introdução aos Testes de Software](https://www.devmedia.com.br/testes-de-software-introducao/1892)
+[Testes de Unidade com JUnit](https://www.baeldung.com/junit-5)
+[Test-Driven Development (TDD)](https://medium.com/@metinalniacik/test-driven-development-tdd-nedir-neden-kullan%C4%B1lmal%C4%B1d%C4%B1r-eb75a15f0686)
+### Segurança Web
+[OWASP Top 10](https://owasp.org/Top10/)
+[Secure Coding Practices Checklist](https://snyk.io/blog/secure-coding-practices-checklist/)
 
 ## Como Contribuir
 Para contribuir para este repositório, siga os seguintes passos:
