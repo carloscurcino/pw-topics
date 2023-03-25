@@ -8,6 +8,7 @@ Aqui estão alguns tópicos que podem ser úteis para a disciplina de programaç
 - Linguagens de programação (Python, Java, C#, Ruby, etc.)
 - Frameworks Back-End (Node.js, Django, Ruby on Rails, etc.)
 - Banco de Dados (SQL, NoSQL, MongoDB, etc.)
+- Object-Relational-Mapping(ORM)
 - Arquitetura de Microserviços
 - Desenvolvimento de APIs (RESTful, GraphQL, etc.)
 - Autenticação e Autorização
@@ -34,6 +35,12 @@ Aqui estão alguns recursos úteis para quem deseja estudar programação web co
 - [Documentação oficial do MySQL](https://dev.mysql.com/doc/)
 - [Documentação oficial do PostgreSQL](https://www.postgresql.org/docs/)
 - [Documentação oficial do MongoDB](https://docs.mongodb.com/)
+### Object-Relational-Map(ORM)
+- [O que é ORM? - TreinaWeb](https://www.treinaweb.com.br/blog/o-que-e-orm)
+- [Video sobre o que é ORM - CódigoFonteTV](https://www.youtube.com/watch?v=snOXxJa31GI)
+- [Django ORM](https://docs.djangoproject.com/en/3.2/topics/db/)
+- [SQLAlchemy ORM](https://docs.sqlalchemy.org/en/14/orm/)
+- [Hibernate ORM](https://docs.jboss.org/hibernate/orm/current/userguide/html_single/Hibernate_User_Guide.html)
 ### Arquitetura de Microserviços
 - [O que é arquitetura de Microserviços?](https://www.redhat.com/pt-br/topics/microservices/what-are-microservices)
 - [Padrões de Arquitetura de Microserviços](https://microservices.io/patterns/microservices.html)
