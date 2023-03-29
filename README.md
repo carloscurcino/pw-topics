@@ -14,6 +14,7 @@ Aqui estão alguns tópicos que podem ser úteis para a disciplina de programaç
 - Autenticação e Autorização
 - Testes de Software
 - CI/CD
+- Deploy
 - Segurança Web
   
 ## Recursos Úteis
