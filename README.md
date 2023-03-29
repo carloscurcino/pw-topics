@@ -13,6 +13,7 @@ Aqui estão alguns tópicos que podem ser úteis para a disciplina de programaç
 - Desenvolvimento de APIs (RESTful, GraphQL, etc.)
 - Autenticação e Autorização
 - Testes de Software
+- CI/CD
 - Segurança Web
   
 ## Recursos Úteis
@@ -24,6 +25,7 @@ Aqui estão alguns recursos úteis para quem deseja estudar programação web co
 ### Docker
 - [Documentação oficial do Docker](https://docs.docker.com/)
 - [Docker Hub](https://hub.docker.com/)
+- [Exemplo de docker-compose](https://gist.github.com/Davi-Ga/3560f72af29c0f30c0a79fd6f98e2685)
 ### Linguagens de programação e Frameworks
 - [Documentação oficial do Python](https://docs.python.org/pt-br/3/)
 - [Documentação oficial do Java](https://docs.oracle.com/en/java/)
@@ -57,9 +59,18 @@ Aqui estão alguns recursos úteis para quem deseja estudar programação web co
 - [Introdução aos Testes de Software](https://www.devmedia.com.br/testes-de-software-introducao/1892)
 - [Testes de Unidade com JUnit](https://www.baeldung.com/junit-5)
 - [Test-Driven Development (TDD)](https://medium.com/@metinalniacik/test-driven-development-tdd-nedir-neden-kullan%C4%B1lmal%C4%B1d%C4%B1r-eb75a15f0686)
+### CI/CD   
+ - [O que é CI/CD?](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)   
+ - [How to build a CI/CD](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)   
+ - [Configure CI/CD for your application with Docker](https://docs.docker.com/language/golang/configure-ci-cd/)  
+ - [Exemplo de CI/CD com GitHub Actions](https://gist.github.com/Davi-Ga/5d2b4004b714367b3e3cdad4d14a9736)
+### Deploy   
+- [O que é deploy e como enviar um Web App ou site para produção](https://blog.geekhunter.com.br/o-que-e-deploy/)
+- [Melhor site para dar deploy](https://fly.io)
 ### Segurança Web
 - [OWASP Top 10](https://owasp.org/Top10/)
 - [Secure Coding Practices Checklist](https://snyk.io/blog/secure-coding-practices-checklist/)
+
 
 ## Como Contribuir
 Para contribuir para este repositório, siga os seguintes passos:
