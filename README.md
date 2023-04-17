@@ -9,6 +9,7 @@ Aqui estão alguns tópicos que podem ser úteis para a disciplina de programaç
 - Frameworks Back-End (Node.js, Django, Ruby on Rails, etc.)
 - Banco de Dados (SQL, NoSQL, MongoDB, etc.)
 - Object-Relational-Mapping(ORM)
+- Debbug
 - Arquitetura de Microserviços
 - Desenvolvimento de APIs (RESTful, GraphQL, etc.)
 - Autenticação e Autorização
